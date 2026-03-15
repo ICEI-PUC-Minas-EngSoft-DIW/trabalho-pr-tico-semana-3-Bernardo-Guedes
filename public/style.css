@@ -1,0 +1,61 @@
+body{
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+aside{
+    width: 280px;
+    float: left;
+    background-color:rgb(197, 239, 225)
+    
+}
+
+aside div{
+    margin: 20px;
+}
+
+aside .foto_perfil img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 20px;
+    
+}
+
+aside h3{
+      text-decoration: underline;
+      text-underline-offset: 5px;
+      font-size: 16px;
+}
+
+main{
+    width: 360px;
+    float: left;
+    background-color: azure;
+}
+
+main article{
+    margin: 20px
+}
+
+main h3{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    font-size: 16px;
+}
+main .topico_resumo p{
+text-align: justify;
+}
+
+h1{
+    margin: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+
+li{
+    margin-bottom: 8px;
+}
+
+article div{
+    margin-bottom: 35px;
+}
